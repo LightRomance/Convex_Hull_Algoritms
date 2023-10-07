@@ -5,7 +5,7 @@ This Python program computes the convex hull of a set of 2D points using a divid
 ## Features
 
 - Computes the convex hull of a set of randomly generated 2D points.
-- Uses both a divide-and-conquer algorithm and SciPy's ConvexHull implementation to compute the convex hull.
+- Uses both a divide-and-conquer algorithm to compute the convex hull.
 - Measures and displays the execution time of the algorithm.
 
 ## Requirements
