@@ -1,5 +1,8 @@
 # Convex_Hull_Algoritms
 
+CSCI 6212_12
+Project2 G36239964
+
 This Python program computes the convex hull of a set of 2D points using a divide-and-conquer algorithm implementation. The convex hull is a fundamental concept in computational geometry and represents the smallest convex polygon that encloses a given set of points.
 
 ## Features
